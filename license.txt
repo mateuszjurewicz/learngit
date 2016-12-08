@@ -1,0 +1,4 @@
+Added license info
+One thing that's like different
+I will commit this by skipping the add stage, it works for only tracked files (that were already created during last commit).
+So no staging, just committing.
