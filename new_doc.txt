@@ -1,1 +1,2 @@
 this was changed since last commit (from empty line)
+This was added since last commit
