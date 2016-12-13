@@ -1,5 +1,9 @@
-here is my readme
+here is my readme,
 
+<<<<<<< HEAD
 the cake is lying truthfully
 No Greggy, the cake is not lying truthfully, it is lying!
 And also, I want to prove to you that I'm the best, me, Jane!
+=======
+Jane is an utter otter.
+>>>>>>> f342d6cb958024bce616b1d85d01f4cd4996f7b1
