@@ -2,4 +2,8 @@ here is my readme
 
 the cake is lying truthfully
 No Greggy, the cake is not lying truthfully, it is lying!
+<<<<<<< HEAD
 Bee tee dubs, Jane is an arsehole (by Greggy)
+=======
+And also, I want to prove to you that I'm the best, me, Jane!
+>>>>>>> 7bbb4e28366bc176404fc52f3fef6025fab8b66d
