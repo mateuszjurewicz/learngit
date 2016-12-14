@@ -1,3 +1,0 @@
-this was changed since last commit (from empty line)
-This was added since last commit
-Adding this line to check if git reset HEAD will also wipe this line
