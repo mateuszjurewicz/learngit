@@ -1,0 +1,2 @@
+I'm adding this to work out how using fetch and then sth to see changes and then merge origin/master
+is actually better than a brutal pull.
